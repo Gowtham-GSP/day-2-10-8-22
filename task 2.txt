@@ -1,0 +1,8 @@
+  Window object 
+      >It is the top most object and outermost element of the object hierarchy
+      >It represents a browser window or frame that displays the contents of the webpage.
+      >Whenever a window appears on the screen to display the contents of the document, the window object is created.
+  Document object
+      >the browser creates a Document Object Model of the page.
+      >Each HTML document that gets loaded into a window becomes a document object.
+      >Using document object, JavaScript can modify, add and delete the HTML elements, attributes CSS styles in the page
